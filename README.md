@@ -1,2 +1,2 @@
 # metadata_reader
-A simple metadata application - coded with python
+A simple application that displays the metadata in an image - coded in python
